@@ -1,0 +1,8 @@
+Pillow
+scikit-learn
+torch
+plotly
+pandas
+numpy
+openai
+nbformat
